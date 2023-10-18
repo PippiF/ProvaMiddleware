@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IcNEGGEr6OoKkdFrkHBBEZKp5jyZsP0pxG/F3UsH3HUSsqkT6sTaIIcl0anUiVVDdicxEG0Ekq/YUmyyZCAdJw==",
+  "dgSpecHash": "t6ABNFIBeNHTf8KU8uN4B7mYZkGAeQt4S7f26TDXSIoxp4ECtOZyzw29+wRKqqHw0bLUVhyEtDCgQwxHAxQiPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\TestProvaMiddleware\\TestProvaMiddleware.csproj",
+  "projectFilePath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\TestProvaMiddleware\\TestProvaMiddleware.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

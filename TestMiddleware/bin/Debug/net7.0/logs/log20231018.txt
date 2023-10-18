@@ -1,0 +1,4 @@
+2023-10-18 14:50:07.675 +02:00 [INF] ::::::MyMiddleware executing
+2023-10-18 14:50:07.692 +02:00 [INF] Next middleware executed.
+2023-10-18 14:55:23.603 +02:00 [INF] ::::::MyMiddleware executing
+2023-10-18 14:55:23.615 +02:00 [INF] Next middleware executed.

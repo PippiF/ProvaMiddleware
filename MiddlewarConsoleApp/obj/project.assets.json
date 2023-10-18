@@ -295,11 +295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj",
       "projectName": "MiddlewarConsoleApp",
-      "projectPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj",
+      "projectPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\MiddlewarConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\MiddlewarConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",

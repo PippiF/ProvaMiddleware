@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vOqUKM4ng1fxOQqQtz4FLxnCDNY3XedPiNXEr/fwdgr6H05R830m8xYyryhpwPdvVo7bdKZi/S64nEGt5Ce/LA==",
+  "dgSpecHash": "YQIkDpfcxQ+UtnPDDblT4HLlCyUQj0rl+xu4eMElzXyrmDFaIL5gPJU36ymqtOuJ2jVhD9WtDzoX3wIi7NF3bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

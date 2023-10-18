@@ -817,11 +817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\TestProvaMiddleware\\TestProvaMiddleware.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\TestProvaMiddleware\\TestProvaMiddleware.csproj",
       "projectName": "TestProvaMiddleware",
-      "projectPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\TestProvaMiddleware\\TestProvaMiddleware.csproj",
+      "projectPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\TestProvaMiddleware\\TestProvaMiddleware.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\TestProvaMiddleware\\obj\\",
+      "outputPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\TestProvaMiddleware\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -839,8 +839,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj": {
-              "projectPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\TestProvaMiddleware\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj"
+            "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj": {
+              "projectPath": "C:\\Users\\franc\\Desktop\\ProvaPippi\\ProvaMiddleware2\\MiddlewarConsoleApp\\MiddlewarConsoleApp.csproj"
             }
           }
         }
