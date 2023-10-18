@@ -1,0 +1,9 @@
+2023-10-18 15:41:34.035 +02:00 [INF] ::::::MyMiddleware executing
+2023-10-18 15:41:35.938 +02:00 [INF] ::::::MyMiddleware executing
+2023-10-18 15:41:43.991 +02:00 [INF] ::::::MyMiddleware executing
+2023-10-18 15:41:44.848 +02:00 [ERR] Ciccio come stai?STO COSO FUNZIONA
+2023-10-18 15:42:04.249 +02:00 [ERR] "ErrorId-00-365731798a6f2213e7756cc98381d1a1-5fabf8500eb0be57-00: Message-Some kind of error happened in the API" Ciccio come stai?
+2023-10-18 17:46:12.742 +02:00 [INF] ::::::MyMiddleware executing
+2023-10-18 17:46:15.146 +02:00 [INF] ::::::MyMiddleware executing
+2023-10-18 17:46:26.611 +02:00 [INF] ::::::MyMiddleware executing
+2023-10-18 17:46:36.342 +02:00 [ERR] "ErrorId-00-83bb6626c694664fe477e708905f1436-ff74174a8cd034bc-00: Message-Some kind of error happened in the API" Value cannot be null.
